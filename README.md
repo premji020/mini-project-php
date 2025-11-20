@@ -108,7 +108,7 @@ $db   = 'job_finder';
 ```
 ### 5. Run
 Open your browser and visit: http://localhost/job-finder/
-
+```
 /job-finder
 ├── /db
 │   └── db.php               # Database connection & Session start
@@ -129,3 +129,4 @@ Open your browser and visit: http://localhost/job-finder/
 ├── register.php             # Account Creation
 ├── logout.php               # Session Cleanup
 └── job_details.php          # Job view & Apply logic
+```
