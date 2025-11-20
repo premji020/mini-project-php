@@ -105,7 +105,7 @@ $host = 'localhost';
 $user = 'root';
 $pass = ''; // Default XAMPP password is empty
 $db   = 'job_finder';
-
+```
 ### 5. Run
 Open your browser and visit: http://localhost/job-finder/
 
